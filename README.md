@@ -1,2 +1,2 @@
-# Lets-Talk-About-Time-Series
-A repository for datasets and code regarding my Medium article series: Let's Talk About Time Series
+# My Medium Article's repository
+A repository for datasets and code regarding my Medium articles
